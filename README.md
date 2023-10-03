@@ -79,7 +79,7 @@ tianshou
 
 ## Train
 
-Change the seventh line in file network.py from sys.path.insert(0,r'D:\Brain-Cog-main (2)\Brain-Cog-main\examples\decision_making\RL') to sys.path.insert(0,r'your project path\examples\decision_making\RL').
+Change the seventh line in file network.py from sys.path.insert(0,r'/root/autodl-tmp/Brain-Cog-dev/examples/decision_making/RL') to sys.path.insert(0,r'your project path\examples\decision_making\RL').
 
 ```shell  
 python ./examples/decision_making/RL/MDS-FQF/python main.py
